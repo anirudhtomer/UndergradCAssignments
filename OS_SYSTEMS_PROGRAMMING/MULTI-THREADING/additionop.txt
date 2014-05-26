@@ -1,0 +1,14 @@
+[anirudh@localhost Desktop]$ gcc addition.c -lpthread
+[anirudh@localhost Desktop]$ ./a.out
+
+First thread created
+Second thread created
+
+Inside Thread 1
+
+Inside Thread 2
+
+Result of the summation:-       10
+
+[anirudh@localhost Desktop]$ 
+

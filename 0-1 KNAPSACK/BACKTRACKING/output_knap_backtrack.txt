@@ -1,0 +1,15 @@
+Enter the capacity of the knapsack..:-  110
+Enter the number of objects:-   8
+
+
+Enter the profit array:-        11 21 31 33 43 53 55 65
+
+
+Enter the weight array:-        1 11 21 23 33 43 45 55
+
+
+THE ITEMS SELECTED ARE:-        1       2       3       5       6
+
+MAXPROFIT = 159
+
+WEIGHT = 109

@@ -1,0 +1,25 @@
+
+Enter the number of elements:-  10
+
+
+Enter the Elements:     9 5 -3 8 7 9 10 1 9 4
+
+
+NOW PLEASE WAIT TO GET THE RESULTS OF BOTH ALGORITHMS:
+
+
+
+MERGE SORT RESULTS:
+
+-3      1       4       5       7       8       9       9       9       10
+
+
+Time taken to sort:     0.879121
+
+
+QUICK SORT RESULTS:
+
+-3      1       4       5       7       8       9       9       9       10
+
+
+Time taken to sort:     0.604396

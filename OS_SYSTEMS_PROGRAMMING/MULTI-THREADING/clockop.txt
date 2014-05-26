@@ -1,0 +1,7 @@
+19 : 24 : 1
+
+Press Ctrl + C to exit
+
+^C
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/MULTI-THREADING$ gcc clock.c -lpthread
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/MULTI-THREADING$ ./a.out

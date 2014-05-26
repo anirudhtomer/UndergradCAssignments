@@ -1,0 +1,42 @@
+Enter the number of registers that can be used:-        2
+
+
+Enter the number of temporary registers that can be used:-      2
+
+
+Enter the three address code ("# = # # #" for ending )
+
+x = b * c
+y = a + x
+m = d * e
+n = c + m
+r = y - n
+# = # # #
+
+
+THE LABELLED TREE IS :
+
+label ( a ) = 1
+label ( b ) = 1
+label ( c ) = 0
+label ( * ) = 1
+label ( + ) = 2
+label ( c ) = 1
+label ( d ) = 1
+label ( e ) = 0
+label ( * ) = 1
+label ( + ) = 2
+label ( - ) = 3
+
+THE ASSEMBLY CODE IS:
+
+MOV c , R0
+MOV d , R1
+MUL e , R1
+ADD R1 , R0
+MOV R0 , T0
+MOV a , R0
+MOV b , R1
+MUL c , R1
+ADD R1 , R0
+SUB T0 , R0

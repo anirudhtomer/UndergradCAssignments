@@ -1,0 +1,22 @@
+Enter the capacity of the knapsack..max 125..not more han!!!:-  6
+Enter the number of objects:-   3
+
+
+Enter the profit array:-        1 2 5
+
+
+Enter the weight array:-        2 3 4
+
+
+OPTIMAL PROFIT TABLE    ** COLUMN--->WEIGHT     ROWS---->OBJECTS **
+
+        0   1   2   3   4   5   6
+
+E-0     0   0   0   0   0   0   0
+E-1     0   0   1   1   1   1   1
+E-2     0   0   1   2   2   3   3
+E-3     0   0   1   2   5   5   6
+
+
+Max Profit = 6
+Objects included are:-  3       1

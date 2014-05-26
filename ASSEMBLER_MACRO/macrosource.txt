@@ -1,0 +1,27 @@
+
+
+
+
+                        MACRO
+
+        M1 &a1,&a2
+MOVER    AREG   ,&a1
+MOVER   BREG,&a2
+MEND
+
+MACRO                                   
+        M2    &a
+        ADD CREG   ,   &a
+        MEND
+
+START 300
+MOVER AREG,='4'
+
+M1 ='2',DREG
+M2 AREG
+MOVER BREG,='3'
+M1 BREG,CREG
+
+END
+
+

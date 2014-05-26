@@ -1,0 +1,60 @@
+Enter the number of jobs:-      6
+
+
+TAKING INPUT
+
+Enter the deadline of job 1 :   5
+
+Enter the profit of job 1 :     23
+
+Enter the deadline of job 2 :	3
+
+Enter the profit of job 2 :     34
+
+Enter the deadline of job 3 :   1
+
+Enter the profit of job 3 :     45
+
+Enter the deadline of job 4 :   2
+
+Enter the profit of job 4 :     49
+
+Enter the deadline of job 5 :   3
+
+Enter the profit of job 5 :     67
+
+Enter the deadline of job 6 :   2
+
+Enter the profit of job 6 :     99
+
+
+Status for jobtobeadded = 1     1       -       -       -       -       -
+
+
+Status for jobtobeadded = 2     1       2       -       -       -       -
+
+
+Status for jobtobeadded = 3     1       2       2       -       -       -
+
+
+Status for jobtobeadded = 3     1       3       2       -       -       -
+
+
+Status for jobtobeadded = 4     1       3       2       -       -       -
+
+
+Status for jobtobeadded = 5     1       3       2       -       -       -
+
+
+Status for jobtobeadded = 6     1       3       2       6       -       -
+
+
+THE FOLLOWING JOBS WERE SELECTED:
+(Profit , Deadline )
+
+(99 , 2)
+(49 , 2)
+(67 , 3)
+(23 , 5)
+
+Net Profit:     238

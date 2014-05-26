@@ -1,0 +1,15 @@
+Enter the number of colors:-     3
+
+
+Enter the number of vertices:-  5
+
+
+Enter the adjancency matrix( 1 for edge / 0 for no edge ):-
+0 1 1 0 1
+1 0 1 0 1
+1 1 0 1 0
+0 0 1 0 1
+1 1 0 1 0
+
+
+Recursive Method Starting...Press any key

@@ -1,0 +1,18 @@
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/SHELL SCRIPTING$ ./sort.sh
+Enter the size of the array:- 5
+
+Enter the element 1 :-   5
+
+Enter the element 2 :-   4
+
+Enter the element 3 :-   3
+
+Enter the element 4 :-   2
+
+Enter the element 5 :-   -9
+
+
+Sorted elements are :-	-9	2	3	4	5	
+
+
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/SHELL SCRIPTING$ 

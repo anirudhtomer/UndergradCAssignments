@@ -1,0 +1,15 @@
+
+	START 100
+
+
+  MOVER  AREG , A
+
+
+		MOVER  BREG ='1'
+        LOOP  MOVEM B   , ='2'
+   LTORG
+ADD   AREG , ='1'
+MUL BREG ,  ='1'
+  A  DC 2
+B  DC   1
+END  

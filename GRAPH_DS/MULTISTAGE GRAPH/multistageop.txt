@@ -1,0 +1,37 @@
+Enter the number of vertices:-  12
+
+Enter the number of stages:-    5
+
+
+ENTER THE ADJACENCY MATRIX ( -1 for null edge )
+
+-1 9 7 3 2 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 4 2 1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 2 7 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 11 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 11 8 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 6 5 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 4 3 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 5 6 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 4
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 2
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 5
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+
+*********SOLVING WITH FORWARD APPROACH*********
+
+
+THE SHORTEST PATH IS:
+0 - 1 - 6 - 9 - 11 - #
+
+THE OPTIMAL COST IS:-   16
+
+
+*********SOLVING WITH BACKWARD APPROACH*********
+
+
+THE SHORTEST PATH IS:
+0 - 2 - 5 - 9 - 11 - #
+
+THE OPTIMAL COST IS:-   16

@@ -1,0 +1,63 @@
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/SHELL SCRIPTING$ ./strop.sh knirnirhuni ni
+
+	************ STRING OPERATIONS **************	
+
+1. REVERSE 1st String	2.Check 1st String for PALINDROME	3.Find 2nd String as SUBSTRING in 1st String 	4.EXIT
+
+Enter your choice:-  1
+The reverse of the string "knirnirhuni" is "inuhrinrink" 
+Press Enter to continue
+
+	************ STRING OPERATIONS **************	
+
+1. REVERSE 1st String	2.Check 1st String for PALINDROME	3.Find 2nd String as SUBSTRING in 1st String 	4.EXIT
+
+Enter your choice:-  2
+String knirnirhuni is not a palindrome
+Press Enter to continue
+
+	************ STRING OPERATIONS **************	
+
+1. REVERSE 1st String	2.Check 1st String for PALINDROME	3.Find 2nd String as SUBSTRING in 1st String 	4.EXIT
+
+Enter your choice:-  3
+String "ni" occured 3 times as a substring in String "knirnirhuni"
+Press Enter to continue
+
+	************ STRING OPERATIONS **************	
+
+1. REVERSE 1st String	2.Check 1st String for PALINDROME	3.Find 2nd String as SUBSTRING in 1st String 	4.EXIT
+
+Enter your choice:-  4
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/SHELL SCRIPTING$ ./strop.sh nitin itini
+
+	************ STRING OPERATIONS **************	
+
+1. REVERSE 1st String	2.Check 1st String for PALINDROME	3.Find 2nd String as SUBSTRING in 1st String 	4.EXIT
+
+Enter your choice:-  1
+The reverse of the string "nitin" is "nitin" 
+Press Enter to continue
+
+	************ STRING OPERATIONS **************	
+
+1. REVERSE 1st String	2.Check 1st String for PALINDROME	3.Find 2nd String as SUBSTRING in 1st String 	4.EXIT
+
+Enter your choice:-  2
+String nitin is a palindrome
+Press Enter to continue
+
+	************ STRING OPERATIONS **************	
+
+1. REVERSE 1st String	2.Check 1st String for PALINDROME	3.Find 2nd String as SUBSTRING in 1st String 	4.EXIT
+
+Enter your choice:-  3
+String "itini" occured 0 times as a substring in String "nitin"
+Press Enter to continue
+
+	************ STRING OPERATIONS **************	
+
+1. REVERSE 1st String	2.Check 1st String for PALINDROME	3.Find 2nd String as SUBSTRING in 1st String 	4.EXIT
+
+Enter your choice:-  4
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/SHELL SCRIPTING$ 

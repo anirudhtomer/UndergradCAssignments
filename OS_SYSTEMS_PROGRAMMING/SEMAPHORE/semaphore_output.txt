@@ -1,0 +1,57 @@
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/SEMAPHORE$ gcc semaphore.c 
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/SEMAPHORE$ sudo ./a.out 
+
+Parent calling Wait()--cnt=5
+Parent Inside CS--cnt=5
+Parent calling Signal()--cnt=4
+Parent Released CS Semaphore--cnt=4
+
+Child calling Wait()--cnt=5
+Child Inside CS--cnt=5
+Child calling Signal()--cnt=4
+Child Released CS Semaphore--cnt=4
+
+Parent calling Wait()--cnt=4
+Parent Inside CS--cnt=4
+Parent calling Signal()--cnt=3
+Parent Released CS Semaphore--cnt=3
+
+Child calling Wait()--cnt=4
+Child Inside CS--cnt=4
+Child calling Signal()--cnt=3
+Child Released CS Semaphore--cnt=3
+
+Parent calling Wait()--cnt=3
+Parent Inside CS--cnt=3
+Parent calling Signal()--cnt=2
+Parent Released CS Semaphore--cnt=2
+
+Child calling Wait()--cnt=3
+Child Inside CS--cnt=3
+Child calling Signal()--cnt=2
+Child Released CS Semaphore--cnt=2
+
+Parent calling Wait()--cnt=2
+Parent Inside CS--cnt=2
+Parent calling Signal()--cnt=1
+Parent Released CS Semaphore--cnt=1
+
+Child calling Wait()--cnt=2
+Child Inside CS--cnt=2
+Child calling Signal()--cnt=1
+Child Released CS Semaphore--cnt=1
+
+Parent calling Wait()--cnt=1
+Parent Inside CS--cnt=1
+Parent calling Signal()--cnt=0
+
+Child calling Wait()--cnt=1
+Child Inside CS--cnt=1
+Child calling Signal()--cnt=0
+Child Released CS Semaphore--cnt=0
+Parent Released CS Semaphore--cnt=0
+
+Child process is terminated...Parent terminates now
+
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/SEMAPHORE$ 
+

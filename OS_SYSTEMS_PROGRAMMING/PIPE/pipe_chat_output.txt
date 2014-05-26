@@ -1,0 +1,38 @@
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/PIPE$ gcc pipe_chat.c 
+/tmp/cciNr3wt.o: In function `main':
+pipe_chat.c:(.text+0x11a): warning: the `gets' function is dangerous and should not be used.
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/PIPE$ ./a.out
+
+
+Parent: Ready for chat...
+
+
+
+Child: getting initialized for chat...plz wait
+
+
+
+Chat Rule: type "bye" for exiting...and parent is always the initiator of the chat
+
+PLEASE DO NOT PRESS ENTER FASTER THEN THE OCCURANCE OF A SECOND (1 sec) or the working would be undefined
+
+Message length should not exceed 50 characters...(why do we always think of crashing programs ?)
+Type message to be sent to child:	how was the oral?
+
+Message from parent to child: how was the oral?
+Type message to be sent to parent:	f*****d up    
+
+Message from child to parent: f*****d up
+Type message to be sent to child:	oh!
+
+Message from parent to child: oh!
+Type message to be sent to parent:	chal cya man
+
+Message from child to parent: chal cya man
+Type message to be sent to child:	bye
+
+Message from parent to child: bye
+Parent: Child terminated..now I am about to terminate
+
+anirudh@anirudh-laptop:~/Desktop/OS_Ninja/PIPE$ 
+
